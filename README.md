@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **anything interesting**
-
 - 📫 How to reach me **filipgolyszny@gmail.com**
 
 ---
