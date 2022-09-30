@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A computer science student from Poland</h3>
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Java+**
 
 - 👯 I’m looking to collaborate on **anything interesting**
 
