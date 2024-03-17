@@ -31,8 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
----
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filip22022&show_icons=true&locale=en&layout=compact" alt="filip22022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filip22022&show_icons=true&locale=en" alt="filip22022" /></p>
+
+<p>
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+</p>
