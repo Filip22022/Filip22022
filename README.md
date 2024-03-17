@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Godot**
 - 💡 I love learning new skills and expanding my horizons
-- 🌅 My favourite projest so far was *TimedWallpaper*
+- 🌅 My favourite project so far was *TimedWallpaper*
 - 🧙‍♂️ In my free time I read fantasy books and webnovels
 
 - 📫 How to reach me **filipgolyszny@gmail.com** or <a href='https://www.linkedin.com/in/filip-go%C5%82yszny/'><img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/></a>
