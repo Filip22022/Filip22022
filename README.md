@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A computer science student from Poland</h3>
 
-- 🌱 I’m currently learning **Kotlin and Android**
+<br/>
 
-- 📫 How to reach me **filipgolyszny@gmail.com**
+- 🌱 I’m currently learning **Flutter and Godot**
+- 💡 I love learning new skills and expanding my horizons
+- 🌅 My favourite projest so far was *TimedWallpaper*
+- 🧙‍♂️ In my free time I read fantasy books and webnovels
 
+- 📫 How to reach me **filipgolyszny@gmail.com** or <a href='https://www.linkedin.com/in/filip-go%C5%82yszny/'><img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/></a>
 
-
-<h2 align="left">I code with</h2>
+<br/>
+<br/>
+<h2 align="left">🖥️ I code with</h2>
 
 ###
 
@@ -31,14 +36,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## Stats
+<br/>
+<br/>
 
+## ⚖️ Stats
+
+### GitHub
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filip22022&show_icons=true&locale=en&layout=compact" alt="filip22022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filip22022&show_icons=true&locale=en" alt="filip22022" /></p>
 
-<p>
-# Todoist Stats
+<br/>
+
+### Todoist
 
 <!-- TODO-IST:START -->
 🏆  15,493 Karma Points           
@@ -46,4 +56,3 @@
 ✅  Completed 1,520 tasks so far           
 ⏳  Longest streak is 16 days
 <!-- TODO-IST:END -->
-</p>
