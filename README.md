@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Flutter and Godot**
+- 🌱 I’m currently learning **Python and React**
 - 💡 I love learning new skills and expanding my horizons
 - 🌅 My favourite project so far was *TimedWallpaper*
 - 🧙‍♂️ In my free time I read fantasy books and webnovels
